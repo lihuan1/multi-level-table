@@ -1,4 +1,4 @@
-# easy-table
+# multi-level-table
 
 ## Project setup
 ```
